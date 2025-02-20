@@ -10,5 +10,7 @@ All queries are commented with the question from the challenge and in the same o
 Websites I used for help or reference are listed as follows:
 	
  w3schools.com/sql
+
  https://learnsql.com
+
  geeksforgeeks.org
